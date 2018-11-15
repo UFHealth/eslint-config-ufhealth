@@ -24,4 +24,4 @@ That's basically it. Override any settings you want from this configuration by j
 
 ## Changelog
 
-The [commit log](./commits/master) should be pretty readable. If it isn't, please yell at us.
+The [commit log](https://github.com/ufhealth/eslint-config-ufhealth/commits/master) should be pretty readable. If it isn't, please yell at us.
