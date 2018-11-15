@@ -1,0 +1,36 @@
+{
+  "name": "eslint-config-ufhealth",
+  "description": "A shareable eslint config for UF Health projects",
+  "version": "1.0.0",
+  "author": "UF Health Web Services <webservices@ahc.ufl.edu>",
+  "contributors": [
+    "Kyle Tucker <k.tucker@ufl.edu>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ufhealth/eslint-config-ufhealth",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ufhealth/eslint-config-ufhealth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ufhealth/eslint-config-ufhealth/issues"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "ufhealth"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-only-warn": "^1.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-react": "^7.11.1",
+    "eslint-plugin-standard": "^4.0.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=5.0.0"
+  }
+}
