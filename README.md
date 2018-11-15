@@ -21,3 +21,7 @@ yarn add -D eslint-config-ufhealth
 ```
 
 That's basically it. Override any settings you want from this configuration by just adding them directly to your `.eslintrc` file.
+
+## Changelog
+
+The [commit log](./commits/master) should be pretty readable. If it isn't, please yell at us.
